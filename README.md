@@ -1,3 +1,3 @@
 # Rock-Paper-Scissorr-game
 my first python project using tkinter
-auther: Omkar Kasture
+Auther: Omkar Kasture
